@@ -1,6 +1,6 @@
 * transfers_stata.pkg
 v 3
-d transfers
+d transfers_stata
 d Commands to group episodes of care from NSW APDC data into larger hospital admissions
-f transfers.ado [The transfers and transfers_sas commands to group episodes of care from NSW APDC data into larger hospital admissions]
-f transfers.sthlp [The transfers help file]
+f transfers_stata.ado [The transfers and transfers_sas commands to group episodes of care from NSW APDC data into larger hospital admissions]
+f transfers_stata.sthlp [The transfers help file]
