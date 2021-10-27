@@ -1,5 +1,4 @@
 * stata.toc
 v 3
 d Commands to group episodes of care from NSW APDC data into larger hospital admissions
-p transfers [The transfers command to group episodes of care from NSW APDC data into larger hospital admissions]
-p transfers_sas [The transfers_sas command to group episodes of care from NSW APDC data into larger hospital admissions (different result, consistent with SAS)]
+p transfers_stata [Commands to group episodes of care from NSW APDC data into larger hospital admissions]
