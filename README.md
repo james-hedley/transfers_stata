@@ -4,7 +4,7 @@ Stata commands to create sequence variables to group episodes of care with trans
 There are three ways to install this package:
   1. Install within Stata using -net install
   
-    net install version_control, from("https://raw.githubusercontent.com/james-hedley/transfers_stata/main/")
+    net install transfers_stata, from("https://raw.githubusercontent.com/james-hedley/transfers_stata/main/")
   
   2. Download the .ado and .sthlp files, and save them in your personal ADO folder. You can find where your personal ADO folder is located by typing -sysdir- in Stata
  
