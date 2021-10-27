@@ -1,4 +1,4 @@
-* transfers.pkg
+* transfers_stata.pkg
 v 3
 d transfers
 d Commands to group episodes of care from NSW APDC data into larger hospital admissions
