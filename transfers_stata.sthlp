@@ -6,7 +6,7 @@
 
 {p2col :{hi:transfers_stata} {hline 2}}For use with NSW Admitted Patient Data Collection (APDC) data. 
 {phang}transfers will create new variables to group separate episodes of care together if they are part of a larger hospital admission.
-{phang}This has been adapted from 'transfers.R' created by Timothy Dobbins, available on GitHub (username: timothydobbins, package: hospital transfers multipackage)
+{phang}This has been adapted from 'transfers.R' created by Timothy Dobbins, available on GitHub (timothydobbins)
 {phang}transfers is an adaptation of transfers.R from Timothy Dobbins.
 {phang}transfers_sas is an adaptation of transfers.SAS, implemented in R
 {phang}These two methods produce slightly different results, hence both functions are available depending on user preference
