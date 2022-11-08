@@ -15,9 +15,9 @@
 
 {title:Syntax}
 
-{phang}{cmd:transfers} , {opt id(varname)}|{opt admdate(varname)} {opt sepdate(varname)} {opt mode(varname)} [{opt transfer_modes(string)}]
+{phang}{cmd:transfers} , {opt id(varname)} {opt admdate(varname)} {opt sepdate(varname)} {opt mode(varname)} [{opt transfer_modes(string)}]
 
-{phang}{cmd:transfers_sas} {opt id(varname)}|{opt admdate(varname)} {opt sepdate(varname)} {opt mode(varname)} [{opt transfer_modes(string)}]
+{phang}{cmd:transfers_sas} {opt id(varname)} {opt admdate(varname)} {opt sepdate(varname)} {opt mode(varname)} [{opt transfer_modes(string)}]
   
 
 {title:Description}
