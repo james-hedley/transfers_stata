@@ -15,9 +15,9 @@
 
 {title:Syntax}
 
-{phang}{cmd:transfers} {it:filename_stub} [, {opt sep:arator(string)}|{opt pl:aceholder(string)} {opt e:xtension(string)} {opt f:ormat(string)} {opt dir:ectory(string)} {opt v:ersion(positive integer)}]
+{phang}{cmd:transfers} , {opt id(varname)}|{opt admdate(varname)} {opt sepdate(varname)} {opt mode(varname)} [{opt transfer_modes(string)}]
 
-{phang}{cmd:transfers_sas} [, {opt cl:ear} {opt sep:arator(string)}|{opt pl:aceholder(string)} {opt f:ormat(string)} {opt dir:ectory(string)} {opt v:ersion(positive integer)}]
+{phang}{cmd:transfers_sas} {opt id(varname)}|{opt admdate(varname)} {opt sepdate(varname)} {opt mode(varname)} [{opt transfer_modes(string)}]
   
 
 {title:Description}
@@ -49,4 +49,3 @@
 {pstd}{browse "mailto:james.a.hedley@gmail.com":james.a.hedley@gmail.com}
 
 {pstd}Adapted from code created by Timothy Dobbins, available here: https://github.com/timothydobbins/hospital-transfers-multipackage{p_end}
-
